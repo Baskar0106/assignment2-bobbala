@@ -40,3 +40,11 @@ Mooyah is one of the place where one can find Burgers, Fries and Shakes. Here ar
 | Fries | Mooyah | $2.49 |
 | shakes | Mooyah | $4.19 |
 | Drinks | Mooyah | $2.50 |
+
+---
+
+# Pithy Quotes
+
+> If hard work is the key to success, most people would rather pick the lock. — *Claude McDonald*
+
+> Delegate your work. Stop spending dollar time on penny jobs. — *Mary Kay Ash*
