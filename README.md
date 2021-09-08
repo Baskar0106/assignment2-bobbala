@@ -48,3 +48,27 @@ Mooyah is one of the place where one can find Burgers, Fries and Shakes. Here ar
 > If hard work is the key to success, most people would rather pick the lock. — *Claude McDonald*
 
 > Delegate your work. Stop spending dollar time on penny jobs. — *Mary Kay Ash*
+
+---
+### Algorithm
+
+>Legendre's formula can be used to prove Kummer's theorem.
+
+> As one special case, it can be used to prove that if n is a positive integer then 4 divides {\displaystyle {\binom {2n}{n}}}{\binom  {2n}{n}} if and only if n is not a power of 2.
+
+>It follows from Legendre's formula that the p-adic exponential function has radius of convergence {\displaystyle p^{-1/(p-1)}}p^{{-1/(p-1)}}.
+
+[Link for the source](https://en.wikipedia.org/wiki/Legendre%27s_formula)
+
+```
+int fact_pow (int n, int k) {
+    int res = 0;
+    while (n) {
+        n /= k;
+        res += n;
+    }
+    return res;
+}
+
+```
+[Link for algorithm](https://cp-algorithms.com/algebra/factorial-divisors.html)
